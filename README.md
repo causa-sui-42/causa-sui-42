@@ -20,7 +20,8 @@ I'm always open to collaborate with others and learn new skills. I'm particularl
 
 While I'm experienced with Docker and Kubernetes, I'm always looking for ways to improve my skills. I'm open to any suggestions, advice, or tips on how to use these technologies more effectively.
 
-### 💬 Ask me about anything related to data engineering, big data, cloud computing, or anything else you're interested in. I'm always happy to have a chat and share knowledge.
+### 💬 Ask me
+About anything related to data engineering, big data, cloud computing, or anything else you're interested in. I'm always happy to have a chat and share knowledge.
 
 ### 📫 Contact Me
 Feel free to reach out to me if you have any questions or just want to say hi! You can email me at pmelnyk62@gmail.com or find me on LinkedIn.
